@@ -11,6 +11,7 @@ A program that allows you to bot accounts to a greater skilllevel over an extend
 1. Generates a legit rank graph with legit looking skill curve
 1. Takes breaks realistically
 1. Mod specializations from a certain rank upwards
+1. Android support, for botting on the go
 
 # Play sources
 1. osu!.db, random generation, within skill level
