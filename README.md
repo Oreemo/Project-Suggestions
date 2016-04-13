@@ -7,6 +7,7 @@
 1. [Ingame Overlay](Ingame Overlay.md)
 1. [Skin Enhancer](Skin Enhancer.md)
 1. [Relay Server](Relay Server.md)
+2. [Relax Assist](Relax Assist.md)
 
 ###whatever related
 [Port this repository](https://guides.github.com/features/pages/)
