@@ -11,3 +11,4 @@ A toggleable ingame overlay that allows access to some functionality to improve 
 1. Automatic shitposting on reddit
 1. Hide from peppy's screenshots
 1. Search for maps and download them directly
+1. Lyrics for songs using MusiXMatch
