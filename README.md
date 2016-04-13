@@ -7,7 +7,7 @@
 1. [Ingame Overlay](Ingame Overlay.md)
 1. [Skin Enhancer](Skin Enhancer.md)
 1. [Screen Smasher](Screen Smasher.md)
-1. [Submission Checker](Submission Checker.md)
+1. [Relay Server](Relay Server.md)
 
 ###whatever related
 1. [Steam like notificator](Steam like notificator.md)
