@@ -18,3 +18,4 @@ A program that allows you to bot accounts to a greater skilllevel over an extend
 1. From collection, random generation, within skill level
 1. Tillerino recommendations + Bloodcat download / osu! api (potentially unsafe!), random generation within skill level
 1. Copy scores from score.db, in date order / per skill level, slight modification / unsubmitted ones
+1. Replay files, slightly modified if submitted / top 50
