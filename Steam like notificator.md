@@ -3,4 +3,4 @@ Shows a small form window in the bottom right corner of the screen like how stea
 
 # Features
 1. Show notificator in the corner of the screen
-1. Extendable via dll files
+1. Extendable with custom events
