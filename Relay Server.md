@@ -14,7 +14,7 @@ Reads filters and modifies all traffic between osu! client and server.
 
 
 # Possible commands
-!maps [name] - Gets all maps by this user
-!downloadmap [id] - Downloads map using client-side application
-!playerinfo [name] - Get extended playerinfo and return as bancho messages (in custom channel)
-!chatfilters - sends [this](https://gist.github.com/shavitush/798987e2fe32225b9125) list.
+* !maps [name] - Gets all maps by this user
+* !downloadmap [id] - Downloads map using client-side application
+* !playerinfo [name] - Get extended playerinfo and return as bancho messages (in custom channel)
+* !chatfilters - sends [this](https://gist.github.com/shavitush/798987e2fe32225b9125) list.
