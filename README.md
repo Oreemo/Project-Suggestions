@@ -1,6 +1,6 @@
 # Projects
 1. [Beatmap Crawler](Beatmap Crawler.md)
-1. [Beatmap Manager](Beatmap Manager)
+1. [Beatmap Manager](Beatmap Manager.md)
 1. [Account Botter](Account Botter.md)
 1. [Better ingame Dejavu](Better ingame Dejavu.md)
 1. [Ingame Overlay](Ingame Overlay.md)
