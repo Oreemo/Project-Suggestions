@@ -12,7 +12,7 @@ A program that allows you to bot accounts to a greater skilllevel over an extend
 1. Takes breaks realistically
 1. Mod specializations from a certain rank upwards
 
-#2 Play sources
+# Play sources
 1. osu!.db, random generation, within skill level
 1. From collection, random generation, within skill level
 1. Tillerino recommendations + Bloodcat download / osu! api (potentially unsafe!), random generation within skill level
