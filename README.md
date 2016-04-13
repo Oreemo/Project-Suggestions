@@ -1,4 +1,5 @@
 # Projects
+###osu! related
 1. [Beatmap Crawler](Beatmap Crawler.md)
 1. [Beatmap Manager](Beatmap Manager.md)
 1. [Account Botter](Account Botter.md)
@@ -8,6 +9,8 @@
 1. [Screen Smasher](Screen Smasher.md)
 1. [Submission Checker](Submission Checker.md)
 
+###whatever related
+1. [Steam like notificator](Steam like notificator.md)
 ###Disclaimer
 Please keep in mind that these are only suggestions. You don't need to make them exactly like described,
 and you don't need to include all the features mentioned.
