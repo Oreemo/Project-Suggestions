@@ -1,2 +1,1 @@
-# Project-Suggestions
-A list of potential projects for our bored members.
+[See possible projects here!](https://github.com/The-Aquila-Network-Community/Project-Suggestions/wiki)
