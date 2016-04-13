@@ -6,6 +6,7 @@
 1. [Ingame Overlay](Ingame Overlay.md)
 1. [Skin Enhancer](Skin Enhancer.md)
 1. [Screen Smasher](Screen Smasher.md)
+1. [Submission Checker](Submission Checker.md)
 
 ###Disclaimer
 Please keep in mind that these are only suggestions. You don't need to make them exactly like described,
