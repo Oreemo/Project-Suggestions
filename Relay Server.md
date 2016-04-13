@@ -2,6 +2,18 @@
 Reads filters and modifies all traffic between osu! client and server.
 
 # Features
-1. Censor banned words to prevent silence
+1. Censor banned words to prevent silence (modify: fuck -> f***)
+1. OR Intercept bannable words, returning a bancho warning message
 1. Ask if score should be submitted (only if better than current player skill / hacked?)
 1. Prevent spectating / skip suspicious frames (jumping cursor)
+1. Spoof multiplayer score
+1. Custom server-side commands/macro's (eg: !downloadmap [id], !massmessage [message], !playerinfo [playerid/playername])
+1. Use bancho messages as output
+1. Use notifier as output
+1. Integrate IRC, aqn or stream chat
+
+
+# Possible commands
+!maps [name] - Gets all maps by this user
+!downloadmap [id] - Downloads map using client-side application
+!playerinfo [name] - Get extended playerinfo and return as bancho messages (in custom channel)
