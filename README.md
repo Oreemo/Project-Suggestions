@@ -9,7 +9,7 @@
 1. [Relay Server](Relay Server.md)
 
 ###whatever related
-1. [Steam like notificator](Steam like notificator.md)
+1. ~~Steam like notificator~~ [This has been made: Steam like notificator](https://github.com/The-Aquila-Network-Community/Steam-like-notificator)
 
 ##Disclaimer
 Please keep in mind that these are only suggestions. You don't need to make them exactly like described,
