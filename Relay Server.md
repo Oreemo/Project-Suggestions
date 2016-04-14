@@ -28,6 +28,7 @@ Reads, filters and modifies all traffic between osu! client and server.
 2. memes
 3. easter eggs
 4. Private Multiplayer (Scores submitted online, lobby only exists on relay servers)
+5. Restricted Ranker (Show pp and other data even on restricted accounts)
 
 
 ## Possible commands
