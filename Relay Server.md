@@ -12,6 +12,7 @@ Reads filters and modifies all traffic between osu! client and server.
 1. Use notifier as output
 1. Integrate IRC, aqn or stream chat
 2. Integrate RSS feed as chat
+3. Ecrypt chat with other Relay Server users (RSA)
 
 
 # Possible commands
