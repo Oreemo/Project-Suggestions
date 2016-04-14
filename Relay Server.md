@@ -10,8 +10,8 @@ Reads, filters and modifies all traffic between osu! client and server.
 1. Custom server-side commands/macro's (eg: !downloadmap [id], !massmessage [message], !playerinfo [playerid/playername])
 1. Integrate IRC, aqn or stream chat
 1. Integrate RSS feed as chat
-1. Ecrypt chat with other Relay Server users (RSA)
-1. Connect with Calender (Like google's), + Notifications
+1. Encrypt chat with other Relay Server users (RSA)
+1. Connect with Calendar (Like google's), + Notifications
 1. Macros, like _DATE, _LOCATION or _USERNAME (Replace with dynamic data in message)
 1. Spoof hardware data (hwid, unique id..., location, ip)
 1. Gives general connection data on connectivity issues + http://stat.ppy.sh/
