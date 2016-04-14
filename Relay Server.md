@@ -24,6 +24,7 @@ Reads, filters and modifies all traffic between osu! client and server.
 1. Translate messages with Google Translater
 1. Masking names/nameprotect (for those who like to stream)
 1. Hide or spoof pp/score, as a protection for streamers
+1. Multi-server support, submit to 2 servers at once.
 2. memes
 3. easter eggs
 
