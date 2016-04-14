@@ -13,7 +13,8 @@
 4. [Replay Studio](Replay Studio.md)
 
 ###whatever related
-[Port this repository](https://guides.github.com/features/pages/)
+1. [Port this repository](https://guides.github.com/features/pages/)
+1. [Zookeeper BATTLE Bot](Zookeeper Battle Bot.md)
 
 ##Disclaimer
 Please keep in mind that these are only suggestions. You don't need to make them exactly like described,
