@@ -22,11 +22,12 @@ Reads, filters and modifies all traffic between osu! client and server.
 1. Use command line from chat
 1. AFK Messages
 1. Translate messages with Google Translator
-1. Masking names/nameprotect (for those who like to stream)
+1. Masking names/nameprotect (for those who like to stream, also for friends / people who send private messages)
 1. Hide or spoof pp/score, as a protection for streamers
 1. Multi-server support, submit to 2 servers at once.
 2. memes
 3. easter eggs
+4. Private Multiplayer (Scores submitted online, lobby only exists on relay servers)
 
 
 ## Possible commands
