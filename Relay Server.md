@@ -34,5 +34,6 @@ Reads filters and modifies all traffic between osu! client and server.
 | !playerinfo [name] | Get extended playerinfo returned as bancho message|
 | !chatfilters       | Sends [this](https://gist.github.com/shavitush/798987e2fe32225b9125) list. |
 | !ping [server]     | Pings a server and gives the results
+| !pp [id] [mods]    | Gets Tillerino style pp calculation for the current map.|
 
 Eastereggs
