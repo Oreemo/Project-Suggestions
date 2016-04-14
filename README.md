@@ -9,6 +9,7 @@
 1. [Relay Server](Relay Server.md)
 2. [Relax Assist](Relax Assist.md)
 3. [Internal API](Internal API.md)
+3. [Gameplay Changer](Gameplay Changer.md)
 
 ###whatever related
 [Port this repository](https://guides.github.com/features/pages/)
