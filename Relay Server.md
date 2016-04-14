@@ -1,5 +1,5 @@
 # Overview
-Reads filters and modifies all traffic between osu! client and server.
+Reads, filters and modifies all traffic between osu! client and server.
 
 # Features
 1. Censor banned words to prevent silence (modify: fuck -> f***)
