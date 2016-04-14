@@ -9,22 +9,26 @@ Reads, filters and modifies all traffic between osu! client and server.
 1. Spoof multiplayer score
 1. Custom server-side commands/macro's (eg: !downloadmap [id], !massmessage [message], !playerinfo [playerid/playername])
 1. Integrate IRC, aqn or stream chat
-2. Integrate RSS feed as chat
-3. Ecrypt chat with other Relay Server users (RSA)
-4. Connect with Calender (Like google's), + Notifications
-5. Macros, like _DATE, _LOCATION or _USERNAME (Replace with dynamic data in message)
-6. Spoof hardware data (hwid, unique id..., location, ip)
-7. Gives general connection data on connectivity issues + http://stat.ppy.sh/
-8. Gives you pp of last play / Mikuia Bot Functionality
-9. Informs of specifiable players' new plays / maps
-10. Automatically download multiplayer maps if player doesn't have them
-11. Fake messages of other people (gotta make those false accusations)
-12. Use command line from chat
-13. AFK Messages
-14. Translate messages with Google Translater
+1. Integrate RSS feed as chat
+1. Ecrypt chat with other Relay Server users (RSA)
+1. Connect with Calender (Like google's), + Notifications
+1. Macros, like _DATE, _LOCATION or _USERNAME (Replace with dynamic data in message)
+1. Spoof hardware data (hwid, unique id..., location, ip)
+1. Gives general connection data on connectivity issues + http://stat.ppy.sh/
+1. Gives you pp of last play / Mikuia Bot Functionality
+1. Informs of specifiable players' new plays / maps
+1. Automatically download multiplayer maps if player doesn't have them
+1. Fake messages of other people (gotta make those false accusations)
+1. Use command line from chat
+1. AFK Messages
+1. Translate messages with Google Translater
+1. Masking names/nameprotect (for those who like to stream)
+1. Hide or spoof pp/score, as a protection for streamers
+2. memes
+3. easter eggs
 
 
-# Possible commands
+## Possible commands
 | Command           | Explanation  | 
 | -------------------|-------------|
 | !maps [name]       | Gets all maps by this user |
@@ -34,11 +38,9 @@ Reads, filters and modifies all traffic between osu! client and server.
 | !ping [server]     | Pings a server and gives the results
 | !pp [id] [mods]    | Gets Tillerino style pp calculation for the current map.|
 
-# Output methods
+## Output methods
 Method | Explanation
 --- | ---
 Bancho message | Bancho message in main chat channel (#osu)
 Custom channel | Bancho-like message in custom chat channel (#log, #console)
 Notifier | Bancho can trigger notifier balloons, which can be used for output
-
-Eastereggs
