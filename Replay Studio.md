@@ -2,7 +2,7 @@
 Complete modification of replay files.
 
 # Features
-1. osu FTW functionality
+1. osu!ftw functionality
 1. Simulate replay + beatmap
 1. Skin support
 1. Smoothing (Add additional frames / reduce uneven cursor speeds or jumps(improves per frame modification))
