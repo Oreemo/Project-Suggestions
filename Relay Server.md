@@ -8,14 +8,12 @@ Reads, filters and modifies all traffic between osu! client and server.
 1. Prevent spectating / skip suspicious frames (jumping cursor)
 1. Spoof multiplayer score
 1. Custom server-side commands/macro's (eg: !downloadmap [id], !massmessage [message], !playerinfo [playerid/playername])
-1. Use bancho messages as output
-1. Use notifier as output
 1. Integrate IRC, aqn or stream chat
 2. Integrate RSS feed as chat
 3. Ecrypt chat with other Relay Server users (RSA)
 4. Connect with Calender (Like google's), + Notifications
-5. Macros, like _DATE, _LOCATION or _USER_NAME (Replace with dynamic data in message)
-6. Spoof Unique data (hwid, unique id..., location, ip)
+5. Macros, like _DATE, _LOCATION or _USERNAME (Replace with dynamic data in message)
+6. Spoof hardware data (hwid, unique id..., location, ip)
 7. Gives general connection data on connectivity issues + http://stat.ppy.sh/
 8. Gives you pp of last play / Mikuia Bot Functionality
 9. Informs of specifiable players' new plays / maps
@@ -35,5 +33,12 @@ Reads, filters and modifies all traffic between osu! client and server.
 | !chatfilters       | Sends [this](https://gist.github.com/shavitush/798987e2fe32225b9125) list. |
 | !ping [server]     | Pings a server and gives the results
 | !pp [id] [mods]    | Gets Tillerino style pp calculation for the current map.|
+
+# Output methods
+Method | Explanation
+--- | ---
+Bancho message | Bancho message in main chat channel (#osu)
+Custom channel | Bancho-like message in custom chat channel (#log, #console)
+Notifier | Bancho can trigger notifier balloons, which can be used for output
 
 Eastereggs
