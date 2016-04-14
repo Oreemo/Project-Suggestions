@@ -8,6 +8,7 @@
 1. [Skin Enhancer](Skin Enhancer.md)
 1. [Relay Server](Relay Server.md)
 2. [Relax Assist](Relax Assist.md)
+3. [Internal API](Internal API.md)
 
 ###whatever related
 [Port this repository](https://guides.github.com/features/pages/)
