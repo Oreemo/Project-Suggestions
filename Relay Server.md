@@ -1,6 +1,9 @@
 # Overview
 Reads, filters and modifies all traffic between osu! client and server.
 
+# When?
+The osu! relay server isn't the easiest thing to do as it being modular would be highly beneficial for public use, making it non modular would take less time though so that is a possibility that one can use on the very first release of the osu! relay server.
+
 # Features
 1. Censor banned words to prevent silence (modify: fuck -> f***)
 1. OR Intercept bannable words, returning a bancho warning message
