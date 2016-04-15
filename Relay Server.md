@@ -34,6 +34,7 @@ The osu! relay server isn't the easiest thing to do as it being modular would be
 4. Private Multiplayer (Scores submitted online, lobby only exists on relay servers)
 5. Restricted Ranker (Show pp and other data even on restricted accounts)
 6. Lua Scripting support for modularity (Probably the easiest and there will be no problems with C++ or C# preferences)
+7. Could work well with [Ingame Overlay](Ingame Overlay.md)
 
 
 ## Possible commands
