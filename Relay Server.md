@@ -28,6 +28,7 @@ The osu! relay server isn't the easiest thing to do as it being modular would be
 1. Translate messages with Google Translator
 1. Masking names/nameprotect (for those who like to stream, also for friends / people who send private messages)
 1. Hide or spoof pp/score, as a protection for streamers
+2. Make client display Guest status while still submitting stuff
 1. Multi-server support, submit to 2 servers at once.
 2. memes
 3. easter eggs
@@ -35,17 +36,26 @@ The osu! relay server isn't the easiest thing to do as it being modular would be
 5. Restricted Ranker (Show pp and other data even on restricted accounts)
 6. Lua Scripting support for modularity (Probably the easiest and there will be no problems with C++ or C# preferences)
 7. Could work well with [Ingame Overlay](Ingame Overlay.md)
+8. Make friends appear in a custom color in chat
+9. Spoof Online leaderboards 
+10. Spoof Client version
+11. Enable and Simulate osu!direct (Bloodcat or something)
+12. Spoof beatmap version (Or just a completely different beatmap altogether)
+13. Automatically put replays of fcs in a database usable with [Replay Studio](Replay Studio.md)
+14. Stats (Sent, recieved messages, traffic size...)
+15. Score fixer (You did get that fc after all / Could modify replay data accordingly)
 
 
 ## Possible commands
-| Command           | Explanation  | 
-| -------------------|-------------|
+| Command            | Explanation  | 
+| -------------------|------------- |
 | !maps [name]       | Gets all maps by this user |
 | !downloadmap [id]  | Downloads map using client-side program      |
 | !playerinfo [name] | Get extended playerinfo returned as bancho message|
 | !chatfilters       | Sends [this](https://gist.github.com/shavitush/798987e2fe32225b9125) list. |
 | !ping [server]     | Pings a server and gives the results
 | !pp [id] [mods]    | Gets Tillerino style pp calculation for the current map.|
+| !ar [mod]          | Calculates the ar with the selected mod as well as the time in ms.|
 
 ## Output methods
 Method | Explanation
