@@ -10,6 +10,7 @@ The osu! relay server isn't the easiest thing to do as it being modular would be
 1. Ask if score should be submitted (only if better than current player skill / hacked?)
 1. Prevent spectating / skip suspicious frames (jumping cursor)
 1. Spoof multiplayer score
+2. Spoof Processlist / Screenshots / Appdata / other data that could lead to a ban
 1. Custom server-side commands/macro's (eg: !downloadmap [id], !massmessage [message], !playerinfo [playerid/playername])
 1. Integrate IRC, aqn or stream chat
 1. Integrate RSS feed as chat
@@ -32,6 +33,7 @@ The osu! relay server isn't the easiest thing to do as it being modular would be
 3. easter eggs
 4. Private Multiplayer (Scores submitted online, lobby only exists on relay servers)
 5. Restricted Ranker (Show pp and other data even on restricted accounts)
+6. Lua Scripting support for modularity (Probably the easiest and there will be no problems with C++ or C# preferences)
 
 
 ## Possible commands
