@@ -11,6 +11,7 @@
 3. [Internal API](Internal API.md)
 3. [Gameplay Changer](Gameplay Changer.md)
 4. [Replay Studio](Replay Studio.md)
+4. [P2P Bancho](P2P Bancho.md)
 
 ###whatever related
 1. [Port this repository](https://guides.github.com/features/pages/)
