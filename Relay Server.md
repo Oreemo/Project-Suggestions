@@ -44,6 +44,7 @@ The osu! relay server isn't the easiest thing to do as it being modular would be
 13. Automatically put replays of fcs in a database usable with [Replay Studio](Replay Studio.md)
 14. Stats (Sent, recieved messages, traffic size...)
 15. Score fixer (You did get that fc after all / Could modify replay data accordingly)
+16. Stay online on 2 (or more) accounts simultanously (chat, scores?)
 
 
 ## Possible commands
