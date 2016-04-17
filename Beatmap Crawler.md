@@ -8,3 +8,4 @@ Should be pretty straightforward: This program should search the internet for be
 1. Let the user select a prefered download site
 1. Download maps to temporary folder and only add them to osu!'s Songs folder when osu isn't running or the user explicitely tells it to, to prevent play sessions from being interrupted by "That thing"
 2. Auto download of new ranked maps
+3. Use osu!search (offers filtering)
