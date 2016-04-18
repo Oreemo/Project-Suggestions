@@ -45,6 +45,7 @@ The osu! relay server isn't the easiest thing to do as it being modular would be
 14. Stats (Sent, recieved messages, traffic size...)
 15. Score fixer (You did get that fc after all / Could modify replay data accordingly)
 16. Stay online on 2 (or more) accounts simultanously (chat, scores?)
+17. Make it able to edit the user panel (such as Hakurei Reimu back in the day used to have a pseudo userpanel made in Photoshop). This allows you to display different information. (like other name, pp etc...)
 
 
 ## Possible commands
