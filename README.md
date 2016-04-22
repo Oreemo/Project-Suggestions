@@ -18,6 +18,7 @@
 1. [Zookeeper BATTLE Bot](Zookeeper Battle Bot.md)
 2. [Realm of the Mad God Multiboxer](Realm of the Mad God Multiboxer.md)
 3. [Project Suggester](Project Suggester.md)
+4. [TetrisFriends Bot](TetrisFriends Bot.md)
 
 ##Disclaimer
 Please keep in mind that these are only suggestions. You don't need to make them exactly like described,
