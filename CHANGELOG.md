@@ -3,20 +3,20 @@ This file will contain major changes, such as new releases and important updates
 Time format is dd/mm/yyyy. Please append newer events to the top. When in doubt, use GMT+0 for time
 
 ## 20/04/2016
-[relay server](https://github.com/The-Aquila-Network-Community/osu-relay-server)
+####[relay server](https://github.com/The-Aquila-Network-Community/osu-relay-server)
 - Added basic GZip support! fa1ead7
 - Actually fixed osu.ppy.sh relay! 8e32654
 
 ## 19/04/2016
-[relay server](https://github.com/The-Aquila-Network-Community/osu-relay-server)
+####[relay server](https://github.com/The-Aquila-Network-Community/osu-relay-server)
 - osu.ppy.sh relay has been added! 60edb52
 
 ## 17/04/2016
-[relay server](https://github.com/The-Aquila-Network-Community/osu-relay-server)
+####[relay server](https://github.com/The-Aquila-Network-Community/osu-relay-server)
 - Patcher has been fixed and code has been cleaned up! 2437699
 
 ## 15/04/2016
-[relay server](https://github.com/The-Aquila-Network-Community/osu-relay-server)
+####[relay server](https://github.com/The-Aquila-Network-Community/osu-relay-server)
 - Intial commit! 706ce1d
 
 ## 18/04/2016
