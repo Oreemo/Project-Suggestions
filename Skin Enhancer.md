@@ -7,3 +7,5 @@ Extends functionality of osu skins.
 1. Crack the screen a little on each click, more cracks until the screen breaks apart at the end of the map
 2. Easily addable achievements
 3. Background metronome synced to played song
+4. Randomized section pass/fail
+5. Customizable section fail/pass settings ( + add perfect pass, decent pass, miserable pass...)
