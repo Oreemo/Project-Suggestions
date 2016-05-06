@@ -7,3 +7,4 @@ When you play a song, it fixes user input a tiny bit to improve the game.
 1. Delay not too far
 1. Set desired accuracy
 1. Press early(toggleable)
+2. Other gamemodes
