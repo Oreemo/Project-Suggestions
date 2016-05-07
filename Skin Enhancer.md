@@ -9,3 +9,4 @@ Extends functionality of osu skins.
 3. Background metronome synced to played song
 4. Randomized section pass/fail
 5. Customizable section fail/pass settings ( + add perfect pass, decent pass, miserable pass...)
+6. Menu Background changing for non-supporters
