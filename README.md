@@ -1,4 +1,11 @@
 # Projects
+**Note**: If you are reading this on github.io, links won't properly redirect. Find correct links [here](https://github.com/The-Aquila-Network-Community/Project-Suggestions/README.md)
+## Disclaimer
+Please keep in mind that these are only suggestions. You don't need to make them exactly like described,
+and you don't need to include all the features mentioned.
+You can take these ideas, adapt them to your needs and apply them in a way you'd like.
+Sharing the code afterwards would be appreciated, but is not needed.
+
 ### osu! related
 1. [Beatmap Crawler](Beatmap Crawler.md)
 1. [Beatmap Manager](Beatmap Manager.md)
@@ -20,11 +27,5 @@
 3. [Project Suggester](Project Suggester.md)
 4. [TetrisFriends Bot](TetrisFriends Bot.md)
 
-## Disclaimer
-Please keep in mind that these are only suggestions. You don't need to make them exactly like described,
-and you don't need to include all the features mentioned.
-You can take these ideas, adapt them to your needs and apply them in a way you'd like.
-Sharing the code afterwards would be appreciated, but is not needed.
-
-## Completed
+### Completed
 1. [Steam like notificator](https://github.com/The-Aquila-Network-Community/Steam-like-notificator) by RapleAQN
