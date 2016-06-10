@@ -7,6 +7,7 @@ You can take these ideas, adapt them to your needs and apply them in a way you'd
 Sharing the code afterwards would be appreciated, but is not needed.
 
 ### osu! related
+1. [Custom Client](Custom Client.md)
 1. [Beatmap Crawler](Beatmap Crawler.md)
 1. [Beatmap Manager](Beatmap Manager.md)
 1. [Account Botter](Account Botter.md)
